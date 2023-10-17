@@ -12,6 +12,6 @@ Now register the Commit by using "git commit -m "Message" "
 
 Then create a Connection with Github Repository using "git remote add origin path_of_GitHub_Repository"
 
-Here (master) and (main) both are same. But ypu have to change master to main or vise-versa use command "git branch -M main" or "git branch -M master" .
+Here (master) and (main) both are same. But you have to change master to main or vise-versa use command "git branch -M main" or "git branch -M master" .
 
 Now Up-load the file from local System to Github repository use command "git push origin master-or-main". It will upload the file to the github repo. 
