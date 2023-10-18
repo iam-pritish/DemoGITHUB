@@ -10,5 +10,4 @@ class sum:
     print(self.sub)
 num1 = sum(23 , 32)
 num1.display()
-sum.display(num1)
-print("Print the add number" , num1.add)
+
